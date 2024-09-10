@@ -8,3 +8,4 @@ Algorithms included:
 4. Quick Sort
 5. Heap Sort
 6. Shell Sort
+7. Radix Sort
