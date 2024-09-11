@@ -3,6 +3,14 @@ Different sorting algorithms implementation in java
 
 Algorithms included:
 ## Insertion Sort
+### Time Complexity:
+- Best: O(n)
+- Average: O(n²)
+- Worst: O(n²)
+### Key Points:
+- Efficient for small or nearly sorted data.
+- Builds the sorted list one element at a time by inserting each element into its correct position.
+- Used in hybrid algorithms like TimSort.
 
 ## Bubble Sort
 ### Time Complexity:
