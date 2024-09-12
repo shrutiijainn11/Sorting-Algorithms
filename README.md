@@ -52,3 +52,12 @@ Algorithms included:
 - Performance depends on pivot choice; random or median-of-three pivot can help avoid worst-case scenarios.
 - Unstable sorting algorithm.
 
+## Heap Sort
+### Time Complexity:
+- Best, Average, and Worst: O(n log n)
+### Key Points:
+- Uses a binary heap data structure.
+- Efficient for large datasets.
+- In-place sorting but not stable.
+- Good for cases where constant memory is important.
+
